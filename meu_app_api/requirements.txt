@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+flask-openapi3
+Flask-SQLAlchemy
+flask-openapi3-swagger
+flask-openapi3-redoc
+flask-openapi3-rapidoc
+flask-openapi3-rapipdf
+flask-openapi3-scalar
+flask-openapi3-elements
+nose2
+pydantic
+SQLAlchemy
+SQLAlchemy-Utils
+typing_extensions
+werkzeug
